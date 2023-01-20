@@ -46,7 +46,7 @@ Planejador de trajetórias para voos de baixa altitude
 
 # Autores
 
-* Aluno 1
+* Colega
 * Aluno 2
 * Aluno 3
 * Aluno 4
