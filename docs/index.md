@@ -53,7 +53,7 @@ Planejador de trajetórias para voos de baixa altitude
 * Aluno 5
 * Aluno 6
 * Aluno 7
-* Aluno 8
+* Outro Colega
 
 
 # Visão Geral do Projeto
