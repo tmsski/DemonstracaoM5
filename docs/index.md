@@ -49,7 +49,7 @@ Planejador de trajetórias para voos de baixa altitude
 * Aluno 1
 * Aluno 2
 * Aluno 3
-* Aluno 4
+* Professor Charles
 * Aluno 5
 * Aluno 6
 * Aluno 7
